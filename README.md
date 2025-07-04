@@ -40,7 +40,6 @@ For queries, suggestions, or collaborations:
 
 GitHub: Om-Singh-45
 
-Email: (add your professional email if you wish)
 
 🛡 License
 This project is licensed under the MIT License.
