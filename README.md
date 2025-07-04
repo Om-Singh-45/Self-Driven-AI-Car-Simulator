@@ -46,7 +46,8 @@ Email: (add your professional email if you wish)
 This project is licensed under the MIT License.
 
 
-![image](https://github.com/user-attachments/assets/60432188-f28b-411c-aef5-f63d7e5cbc1f)
+![image](https://github.com/user-attachments/assets/da2052e1-d5eb-4cf2-9b63-499440b0eba7)
+
 
 ![image](https://github.com/user-attachments/assets/a65b7f8f-387e-4315-9adb-decb72d123bc)
 
