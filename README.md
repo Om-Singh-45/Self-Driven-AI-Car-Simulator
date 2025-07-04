@@ -23,10 +23,26 @@ An **AI-powered self-driving car simulator** that learns to analyze tracks and d
 
 ---
 
-## 🚀 Getting Started
+📈 Future Enhancements
+Multi-car AI race simulation
 
-1️⃣ **Clone the repository:**
+Dynamic obstacle avoidance
 
-```bash
-git clone https://github.com/Om-Singh-45/Self-Driven-AI-Car-Simulator.git
-cd Self-Driven-AI-Car-Simulator
+Detailed analytics dashboard for learning performance
+
+Integration with real sensor data for advanced experiments
+
+🤝 Contributing
+Contributions and improvements are welcome! Feel free to fork the repo, open issues, or submit pull requests to enhance the project.
+
+📧 Contact
+For queries, suggestions, or collaborations:
+
+GitHub: Om-Singh-45
+
+Email: (add your professional email if you wish)
+
+🛡 License
+This project is licensed under the MIT License.
+
+
